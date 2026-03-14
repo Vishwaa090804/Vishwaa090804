@@ -24,11 +24,30 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 **CS Student** passionate about turning ideas into real-world applications  
-💻 **Web Developer** building with React, Java, and Machine Learning  
+<table>
+  <tr>
+    <td valign="top" width="55%">
+
+🎓 **CS Student** passionate about turning ideas into real-world applications 
+
+💻 **Web Developer** building with React, Java, and Machine Learning 
+
 🚀 Interested in **Full-Stack Development**, **Machine Learning**, and **AI-powered applications**  
+
 🌱 Always learning, always building — one project at a time  
-⚡ Fun fact: I break things in code just to learn how to fix them better.
+
+⚡ Fun fact: I break things in code just to learn how to fix them better.🧑‍💻 Code. Debug. Learn. Repeat.
+
+🧩 Enjoy solving problems that require logic, creativity, and persistence
+
+🔬 Experimenting with machine learning models and real-world datasets
+
+  </td>
+  <td valign="top" width="45%">
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500" />
+  </td>
+  </tr>
+</table>
 
 ---
 
