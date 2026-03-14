@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, Nice to Meet you!! 👋
+# Hey there, Nice to Meet yaa!! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+%26+AI+Enthusiast;MERN+Stack+Builder;CS+Student+%7C+Problem+Solver)](https://git.io/typing-svg)
 
