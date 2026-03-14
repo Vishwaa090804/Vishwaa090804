@@ -65,6 +65,18 @@
 
 ---
 
+## 🎮 GitHub Contributions — Space Shooter Edition
+
+<div align="center">
+
+![GitHub Space Shooter Game](game.gif)
+
+> *My contribution graph — but make it a space shooter 🚀*
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,5 +111,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Vishwaa090804&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
-
-
