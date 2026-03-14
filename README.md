@@ -11,11 +11,16 @@
   <a href="https://github.com/Vishwaa090804">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" />
   </a>
+  <a href="https://github.com/Vishwaa090804">
+    <img src="gmail-animated.gif" alt="Gmail" width="50" height="50">
+  </a>
 </p>
 
 </div>
-
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+<br>
 
 ## 🙋‍♂️ About Me
 
@@ -23,24 +28,29 @@
 💻 **Web Developer** building with React, Java, and Machine Learning  
 🚀 Interested in **Full-Stack Development**, **Machine Learning**, and **AI-powered applications**  
 🌱 Always learning, always building — one project at a time  
-⚡ Fun fact: I debug with coffee and curiosity ☕
+⚡ Fun fact: I break things in code just to learn how to fix them better.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I've Worked With
 
 <div align="center">
 
-<!-- Animated Tech Logos -->
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="React" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" title="JavaScript" />
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" title="CSS3" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" title="HTML5" />
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" title="JavaScript" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="80" title="typescript"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" title="python" />
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60" title="Github" />
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60" title="VSCode" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="60" title="html">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="60" title="css">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60" title="Node.js" />
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" title="Python" />
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="60" title="MongoDB" />
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60" title="GitHub" />
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="60" title="VS Code" />
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" title="React" />
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" title="git">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="60" title="MongoDB">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="60" title="java" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" title="c&cpp"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="60" title="MySQL"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" title="Docker"/>
 
 </div>
 
@@ -122,6 +132,40 @@
 ---
 
 <div align="center">
+
+## 😏 You know the feeling — you've been there.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="220" title="☕ Coffee while working" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="180" title="⌨️ Ultra Fast Typing Cat" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/82f73bdc-f54b-4803-ace4-1c019cb875ab" width="200" title="🎯 Deep Focus" />
+
+**☕ Coffee while working** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **⌨️ Ultra Fast Typing Cat** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🎯 Deep Focus**
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="190" title="🔁 Everything's a Copy" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="210" title="🧑‍💻 Junior Dev After Mistake" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="190" title="😴 Sleepy Head" />
+
+**🔁 Everything's a Copy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧑‍💻 Junior Dev After Mistake** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **😴 Sleepy Head**
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/504a2680-59a6-420e-b297-5ae89d68e377" width="200" title="⚔️ Conflict at Every PR" />&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif" width="180" title="😐 I Am Bored" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/491e3e44-11a0-487a-b07b-717f677bbe4a" width="210" title="😤 Code Doesn't Work" />
+
+**⚔️ Conflict at Every PR** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **😐 I Am Bored** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **😤 Code Doesn't Work**
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87360948-7b92-4852-91f7-ff62ddb8fcd4" width="195" title="🤷 No Idea What I'm Doing" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e012b52a-b326-4c70-962f-91ee5e1c951f" width="195" title="🌗 Day Night" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08edbce8-99d3-4ad2-9d04-7e0cd1f02eac" width="195" title="🐛 Finding Big Bugs" />
+
+**🤷 No Idea What I'm Doing** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🌗 Day Night** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🐛 Finding Big Bugs**
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/214375117-d7fc8261-fff2-4b2a-826f-b917ff005e54.gif" width="250" title="😵 Work Pressure!!" />
+
+**😵 Work Pressure!!**
+
+---
 
 ### 💬 Let's connect and build something amazing together!
 
