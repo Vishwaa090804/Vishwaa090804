@@ -143,9 +143,14 @@
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="190" title="🔁 Everything's a Copy" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="210" title="🧑‍💻 Junior Dev After Mistake" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="190" title="😴 Sleepy Head" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="500" title="🔁 Everything's a Copy" />&nbsp;&nbsp;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**🔁 Everything's a Copy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<br>
+<br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="210" title="🧑‍💻 Junior Dev After Mistake" />&nbsp;&nbsp;<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe8225a5-f084-45cb-9a28-a0c2c8634872" width="210"  title="😴 Sleepy Head" />
 
-**🔁 Everything's a Copy** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🧑‍💻 Junior Dev After Mistake** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **😴 Sleepy Head**
+**🧑‍💻 Junior Dev After Mistake** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **😴 Sleepy Head**
 
 <br>
 
