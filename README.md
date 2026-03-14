@@ -30,17 +30,17 @@
 
 🎓 **CS Student** passionate about turning ideas into real-world applications 
 
-💻 **Web Developer** building with React, Java, and Machine Learning 
+💻 **Web Developer** building with React, Java, and Machine Learning.
 
 🚀 Interested in **Full-Stack Development**, **Machine Learning**, and **AI-powered applications**  
 
-🌱 Always learning, always building — one project at a time  
+🌱 Always learning, always building — one project at a time.
 
-⚡ Fun fact: I break things in code just to learn how to fix them better.🧑‍💻 Code. Debug. Learn. Repeat.
+⚡ Fun fact: I break things in code just to learn how to fix them better.
 
-🧩 Enjoy solving problems that require logic, creativity, and persistence
+🧩 Enjoy solving problems that require logic, creativity, and persistence.
 
-🔬 Experimenting with machine learning models and real-world datasets
+🔬 Experimenting with machine learning models and real-world datasets.
 
   </td>
   <td valign="top" width="45%">
