@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ML+%26+AI+Enthusiast;MERN+Stack+Builder;CS+Student+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/vishwatejachilupuri">
+  <a href="www.linkedin.com/in/vishwa-teja-chilupuri-410224302">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" />
   </a>
-  <a href="https://github.com/Vishwaa090804">
+  <a href="https://discord.com/users/1299035583124869211">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50" />
   </a>
   <a href="https://github.com/Vishwaa090804">
