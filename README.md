@@ -144,7 +144,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vishwaa090804&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Vishwaa090804&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
